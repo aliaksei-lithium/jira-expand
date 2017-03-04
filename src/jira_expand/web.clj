@@ -4,7 +4,7 @@
     [aleph.http :as aleph]))
 
 (def slack-api-base-url "https://slack.com/api")
-(def api-token "xoxp-3612762001-42353140468-123718175202-cc8b6429bc0247e8265f61333607be5e")
+(def api-token "XXXXX")
 
 (defn- get-api-response
   "Takes a full http response map and returns the api response as a map."
