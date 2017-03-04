@@ -1,0 +1,22 @@
+.project
+.settings
+.classpath
+.idea
+.gradle
+target
+build
+deploy
+deploy-*
+*.iml
+/lib
+nb-configuration.xml
+reports
+*.*~
+.metadata
+build *.txt
+.vagrant
+*-local-config.cmd
+bin
+
+*.log
+*.pdf
